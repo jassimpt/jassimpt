@@ -1,14 +1,6 @@
 <h1 align="center">Hi , I'm Jassim Abdul Razak</h1>
 <h3 align="center">Crafting Experiences: A Dedicated Flutter Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jassimpt&label=Profile%20views&color=0e75b6&style=flat" alt="jassimpt" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jassimpt" alt="jassimpt" /></a> </p>
-
-
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/jassim_pt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jassim_pt1" height="30" width="40" /></a>
@@ -25,6 +17,6 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassimpt&show_icons=true&locale=en" alt="jassimpt" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassimpt&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=15" alt="jassimpt" /></p>
 
-<p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&" alt="jassimpt" /></p>
+<p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&theme=dark&hide_border=true&border_radius=15" alt="jassimpt" /></p>
