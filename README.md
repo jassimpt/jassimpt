@@ -17,6 +17,6 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassimpt&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=15" alt="jassimpt" /></p>
+
 
 <p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&theme=dark&hide_border=true&border_radius=15" alt="jassimpt" /></p>
