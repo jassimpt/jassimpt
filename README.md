@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center">[ Tools & Languages ]</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" height="30" alt="javascript logo"  />
@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
  
 </div>
@@ -27,6 +27,8 @@
 
 
 <p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&theme=dark&hide_border=false&border_radius=15" alt="jassimpt" /></p>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jassimpt/">
