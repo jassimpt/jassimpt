@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">[ Tools & Languages ]</h3>
+<h3 align="center"> Tools & Languages </h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" height="30" alt="javascript logo"  />
@@ -25,11 +25,6 @@
 
 ###
 
-
-<p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&theme=dark&hide_border=false&border_radius=15" alt="jassimpt" /></p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jassimpt/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -41,4 +36,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassimpt&theme=dark&hide_border=false&border_radius=30" alt="jassimpt" /></p>
+
+
+
+
 
